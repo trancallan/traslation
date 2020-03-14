@@ -13,6 +13,7 @@ MENU ITEMS
     ">Themes",">Thema's"
     ">Plugins",">Plugins"
     ">Security",">Beveiliging"
+    ">Statistics",">Statistieken"
 
 CURRENT PAGE
     ">Page title",">Titel"
@@ -63,6 +64,14 @@ SECURITY
     "> Read more before enabling","> Lees meer voordat dit aangezet wordt"
 
     ">Last 5 logins",">Laatse 5 keer ingelogt"
+
+STATISTICS
+    ">Statistieken this week",">Deze week"
+    ">Pageviews",">Paginaweergaven"
+    ">Sessions",">Sessies"
+    ">Most popular page",">Meest bekeken pagina"
+    ">Paginaweergaven last two weeks",">Paginaweergaven afgelopen twee weken"
+    ">Sessies last two weeks",">Sessies afgelopen twee weken"
 
 FOOTER
     ">News",">Nieuws"
