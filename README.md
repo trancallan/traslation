@@ -1,4 +1,4 @@
-<p align="center"><img src="https://images.stanisic.nl/TExlzynm/TxGIzyuE.jpg" /></p>
+<p align="center"><img src="https://img.freepik.com/free-vector/illustration-russia-flag_53876-27016.jpg?size=626&ext=jpg" /></p>
 <h1 align="center">language-ru_RU</h1>
 <p align="center">Russian translations for WonderCMS</p>
 
