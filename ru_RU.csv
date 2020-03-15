@@ -59,19 +59,19 @@ SECURITY
     "> How to restore backup","> Как восстанавливать резервные копии?"
     ">Improved security \(Apache only\)",">Усиленная защита (Работает только с Apache)"
     ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Принудительное HTTPS, 30 дневное кеширование, iframes разрешены только с того же источника, защита от сниффинга mime-типов, более строгие политики для cookie и refferer механизмов."
-    ">ON (warning: may break your website)",">ВКЛЮЧИТЬ (внимание: может сломать Ваш вебсайт!)"
-    ">OFF (reset htaccess to default)",">ОТКЛЮЧИТЬ"
+    ">ON \(warning: may break your website\)",">ВКЛЮЧИТЬ (внимание: может сломать Ваш вебсайт!)"
+    ">OFF \(reset htaccess to default\)",">ОТКЛЮЧИТЬ"
     "> Read more before enabling","> Узнать больше перед тем, как включать"
 
     ">Last 5 logins",">Последние 5 сохраненных входов"
 
 STATISTICS
-    ">Statistieken this week",">Статистика за последнюю неделю"
+    ">Статистика this week",">Статистика за последнюю неделю"
     ">Pageviews",">Просмотры"
     ">Sessions",">Сессии"
     ">Most popular page",">Самая популярная страница"
-    ">Paginaweergaven last two weeks",">Просмотры за две последние недели "
-    ">Sessies last two weeks",">Сессии за две последние недели"
+    ">Просмотры last two weeks",">Просмотры за две последние недели "
+    ">Сессии last two weeks",">Сессии за две последние недели"
 
 FOOTER
     ">News",">Новости"
