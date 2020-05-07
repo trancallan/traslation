@@ -21,13 +21,16 @@ CURRENT PAGE
     "> Delete page \((.*?)\)","> Izbriši stran ($1)"
     "return confirm\('Izbris (.*?)\?'\)","return confirm('Izbris $1?')"
 
-GENERAL
+MENU
     ">Website title","> Naslov strani"
     ">Page to display on homepage","> Stran za prikaz na domači strani"
-    ">Delete files","> Izbris datotek"
-
     ">visit",">obišči"
     "> Add page","> Dodaj stran"
+
+FILES
+    ">Upload","> Naloži"
+    ">Delete files","> Izbris datotek"
+
 
 THEMES
     "> Check for updates","> Preveri posodobitve"
@@ -47,7 +50,7 @@ PLUGINS
     ">List of all plugins",">Список всех плагинов"
 
 SECURITY
-    ">Admin login URL","> URL/povezava za vpis administratorja"
+    ">Admin login URL","> URL/povezava za vpis"
     ">Save your login URL to log into your website next time:",">Shrani svojo URL povezavo za ponoven vpis z administratorskim računom"
     ">Password",">Geslo"
     "Old password","Staro geslo"
@@ -56,10 +59,12 @@ SECURITY
 
     "> How to restore backup","> Kako obnoviti varnostno kopijo"
     ">Improved security \(Apache only\)",">Dodatna varnost (samo Apache serverji)"
-    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime-type zavrovanje proti vohunjenju, strožji pravilnik o piškotkih in napotitvah.",">HTTPS preusmeritev, 30-dnevno keširanje, iframi dovoljeni samo iz istega izvora."
-    ">ON \(warning: may break your website\)",">Vklop (opozorilo: lahko zlomi vaše spletno mesto)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">HTTPS preusmeritev, 30-dnevno keširanje, iframi dovoljeni samo iz istega izvora."
+    ">ON \(warning: may break your website\)",">Vklop (lahko zlomi vaše spletno mesto)"
     ">OFF \(reset htaccess to default\)",">Izklop (resetiraj dodatno varnost)"
-    "> Read more before enabling","> Preberi več pred vklopom"
+    ">Read more before enabling","> Preberi več pred vklopom"
+    ">Backup","> Varnostna kopija strani"
+
 
     ">Last 5 logins",">Zadnjih 5 vpisov"
 
