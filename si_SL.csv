@@ -66,20 +66,18 @@ SECURITY
     ">Last 5 logins",">Zadnjih 5 vpisov"
 
 STATISTICS
-    ">Statistics this week",">Statistika za ta teden"
+    ">Statistics this week",">Statistika za"
     ">Pageviews",">Število ogledov strani"
     ">Sessions",">Število sej"
     ">Most popular page",">Najbolj popularna stran"
-    ">Pageviews last two weeks",">Ogledov v preteklih 2 tednih"
-    ">Sessions last two weeks",">Število sej v preteklih 2 tednih"
+    ">Pageviews",">Ogledov v"
+    ">Sessions",">Število sej v"
+    ">this week",">ta teden"
+    ">last two weeks",">preteklih 2 tednih"
+
 
 FOOTER
     ">News",">Novice"
     ">Community",">Forum"
     ">Docs",">Dokumentacija"
     ">Donate",">Doniraj"
-
-ALERTS
-    ">Cannot delete currently active theme.",">Trenutne teme ni mogoče izbrisati."
-    ">Re-open theme settings",">Ponovno odpri nastavitve teme"
-    ">Change your default password and login URL. Open security settings",">Spremeni privzeto geslo in URL za vpis. Odpri varnostne nastavitve"
