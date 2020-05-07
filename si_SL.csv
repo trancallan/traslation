@@ -64,17 +64,13 @@ SECURITY
     ">Last 5 logins",">Zadnjih 5 vpisov"
 
 STATISTICS
-    ">Statistics",">Statistika za"
     ">Pageviews",">Število ogledov strani"
     ">Sessions",">Število sej"
     ">Most popular page",">Najbolj popularna stran"
     ">Pageviews",">Ogledov v"
     ">Sessions",">Število sej v"
-    ">this week",">ta teden"
+    ">this week",">tem tednu"
     ">last two weeks",">preteklih 2 tednih"
-    ">Pageviews last two weeks",">Število odgledov strani"
-
-
 
 FOOTER
     ">News",">Novice"
