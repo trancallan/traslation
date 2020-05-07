@@ -32,9 +32,9 @@ FILES
     ">Delete files","> Izbris datotek"
 
 
-THEMES
+THEMES AND PLUGINS
     "> Check for updates","> Preveri posodobitve"
-    "return confirm\('Remove (.*?)\?'\)","return confirm('Izbris teme $1?')"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Izbris $1?')"
     ">Active",">V uporabi"
     "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktiviraj $1?')"
     "> Activate","> Aktiviraj"
@@ -66,14 +66,14 @@ SECURITY
     ">Last 5 logins",">Zadnjih 5 vpisov"
 
 STATISTICS
-    ">Statistics this week",">Statistika za"
+    ">Statistics",">Statistika za"
     ">Pageviews",">Število ogledov strani"
     ">Sessions",">Število sej"
     ">Most popular page",">Najbolj popularna stran"
     ">Pageviews",">Ogledov v"
     ">Sessions",">Število sej v"
     ">this week",">ta teden"
-    "> last two weeks",">preteklih 2 tednih"
+    ">last two weeks",">preteklih 2 tednih"
 
 
 FOOTER
