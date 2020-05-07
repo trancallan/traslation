@@ -43,7 +43,7 @@ THEMES
     ">Installed version:",">Nameščena verzija:"
     ">Custom repository",">Odlagališče po meri (repository)"
     "Enter URL to custom repository","Vnesi URL za odlagališče"
-    ">Add", "> Dodaj"
+    "> Add", "> Dodaj"
     "> Read more about custom repositories",">Preberi več o odlagališčih po meri"
 
 SECURITY
@@ -78,3 +78,8 @@ FOOTER
     ">Community",">Forum"
     ">Docs",">Dokumentacija"
     ">Donate",">Doniraj"
+
+ALERTS
+    ">Cannot delete currently active theme.",">Trenutne teme ni mogoče izbrisati."
+    ">Re-open theme settings",">Ponovno odpri nastavitve teme"
+    ">Change your default password and login URL. Open security settings",">Spremeni privzeto geslo in URL za vpis. Odpri varnostne nastavitve"
