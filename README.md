@@ -1,4 +1,4 @@
-<p align="center"><img src="preview.jpg" /></p>
+<p align="center"><img src="preview.jpg?v=2" /></p>
 <h1 align="center">language-si_SL</h1>
 <p align="center">Slovenian translations for WonderCMS</p>
 
