@@ -1,0 +1,80 @@
+OVERLAYS
+    "> Saving","> Shranjujem"
+    "> Checking for updates",">Preverjam posodobitve"
+
+BUTTONS
+    ">Settings",">Nastavitve"
+
+MENU ITEMS
+    ">Current page",">Trenutna stran"
+    ">Menu",">Meni"
+    ">Files",">Datoteke"
+    ">Themes",">Teme"
+    ">Plugins",">Vtičniki"
+    ">Security",">Varnost"
+    ">Statistics",">Statistika"
+
+CURRENT PAGE
+    ">Page title",">Ime strani"
+    ">Page keywords",">Ključne besede"
+    ">Page description",">Opis"
+    "> Delete page \((.*?)\)","> Izbriši stran ($1)"
+    "return confirm\('Izbris (.*?)\?'\)","return confirm('Izbris $1?')"
+
+GENERAL
+    ">Website title","> Naslov strani"
+    ">Page to display on homepage","> Stran za prikaz na domači strani"
+    ">Delete files","> Izbris datotek"
+
+    ">visit",">obišči"
+    "> Add page","> Dodaj stran"
+
+THEMES
+    "> Check for updates","> Preveri posodobitve"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Izbris teme? $1?')"
+    ">Active",">V uporabi"
+    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktiviraj $1 temo?')"
+    "> Activate","> Aktiviraj"
+    "> More info","> Več informacij"
+    "> Install","> Namesti"
+    ">Installed version:",">Nameščena verzija:"
+    ">Custom repository",">Odlagališče po meri (repository)"
+    "Enter URL to custom repository","Vnesi URL za odlagališče"
+    "> Add", "> Dodaj"
+    "> Read more about custom repositories","> Preberi več o odlagališčih po meri"
+
+PLUGINS
+    ">List of all plugins",">Список всех плагинов"
+
+SECURITY
+    ">Admin login URL","> URL/povezava za vpis administratorja"
+    ">Save your login URL to log into your website next time:",">Shrani svojo URL povezavo za ponoven vpis z administratorskim računom"
+    ">Password",">Geslo"
+    "Old password","Staro geslo"
+    "New password","Novo geslo"
+    "> Change password","> Spremeni geslo"
+
+    "> How to restore backup","> Kako obnoviti varnostno kopijo"
+    ">Improved security \(Apache only\)",">Dodatna varnost (samo Apache serverji)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime-type zavrovanje proti vohunjenju, strožji pravilnik o piškotkih in napotitvah.",">HTTPS preusmeritev, 30-dnevno keširanje, iframi dovoljeni samo iz istega izvora."
+    ">ON \(warning: may break your website\)",">Vklop (opozorilo: lahko zlomi vaše spletno mesto)"
+    ">OFF \(reset htaccess to default\)",">Izklop (resetiraj dodatno varnost)"
+    "> Read more before enabling","> Preberi več pred vklopom"
+
+    ">Last 5 logins",">Zadnjih 5 vpisov"
+
+STATISTICS
+    ">Statistics this week",">Statistika za ta teden"
+    ">Pageviews",">Število ogledov strani"
+    ">Sessions",">Število sej"
+    ">Most popular page",">Najbolj popularna stran"
+    ">Pageviews last two weeks",">Ogledov v preteklih 2 tednih"
+    ">Sessions last two weeks",">Število sej v preteklih 2 tednih"
+
+FOOTER
+    ">News",">Novice"
+    ">Community",">Forum"
+    ">Docs",">Dokumentacija"
+    ">Donate",">Doniraj"
+
+
