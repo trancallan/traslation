@@ -1,9 +1,9 @@
 OVERLAYS
-    "> Saving","> Shranjujem"
-    "> Checking for updates",">Preverjam posodobitve"
+    ">Saving","> Shranjujem"
+    ">Checking for updates",">Preverjam posodobitve"
 
 BUTTONS
-    ">Settings",">Nastavitve"
+    "> Settings","> Nastavitve"
 
 MENU ITEMS
     ">Current page",">Trenutna stran"
@@ -61,8 +61,6 @@ SECURITY
     ">OFF \(reset htaccess to default\)",">Izklop (resetiraj dodatno varnost)"
     "> Read more before enabling","> Preberi več pred vklopom"
     ">Backup","> Varnostna kopija strani"
-
-
     ">Last 5 logins",">Zadnjih 5 vpisov"
 
 STATISTICS
