@@ -1,5 +1,5 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-si_SL</h1>
+<h1 align="center">language-sl</h1>
 <p align="center">Slovenian translations for WonderCMS</p>
 
 <br><br>
@@ -15,8 +15,8 @@ This plugin adds Slovenian translations to the WonderCMS admin area, based on `h
    the page and click "Add".
 3. Find plugin in the list and click "install".
 
-## How this works
 
+## How this work
 The translations are all in the si_SL.csv file. Why in CVS? That's how all
 other major CMSes do it, so there must be a good reason for it.
 
