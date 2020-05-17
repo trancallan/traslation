@@ -21,9 +21,6 @@ This plugin adds Slovenian translations to the WonderCMS admin area, based on `h
 ## How to use
 1. Login to your WonderCMS website.
 2. Click "Settings" and click "Plugins".
-3. Enter the repo url, f.e.
-   (`https://github.com/robiso/translation-slovenian`) at the bottom of
-   the page and click "Add".
 3. Find plugin in the list and click "install".
 
 
