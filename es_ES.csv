@@ -37,7 +37,7 @@ FILES
 
 THEMES AND PLUGINS
     "> Check for updates","> Buscar actualizaciones"
-    "return confirm\('Remove (.*?)\?'\)","return confirm('Izbris $1?')"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Suprimir $1?')"
     ">Active",">Activo"
     "return confirm\('Activate (.*?) theme\?'\)","return confirm('Activar $1?')"
     "> Activate","> Activar"
