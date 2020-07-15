@@ -1,6 +1,6 @@
 OVERLAYS
-    ">Saving","> Guardando"
-    ">Checking for updates","> Comprobando actualizaciones"
+    ">Saving",">Guardando"
+    ">Checking for updates",">Comprobando actualizaciones"
 
 BUTTONS
     "> Settings","> Ajustes"
@@ -19,7 +19,7 @@ CURRENT PAGE
     ">Page title",">Título página"
     ">Page keywords",">Palabras clave de la página"
     ">Page description",">Descripción de la página"
-    "> Delete page","> Eliminar página"
+    "> Delete page",">Eliminar página"
     "return confirm\('Delete (.*?)\?'\)","return confirm('Eliminar $1?')"
 
 
